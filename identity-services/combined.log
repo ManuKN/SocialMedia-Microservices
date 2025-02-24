@@ -430,3 +430,17 @@
 {"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-02-24T18:14:48.539Z"}
 {"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-02-24T18:14:51.527Z"}
 {"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-02-24T18:14:52.032Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-02-24T18:15:01.820Z"}
+{"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-02-24T18:15:02.718Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-02-24T18:15:50.406Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-02-24T18:15:50.407Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-02-24T18:15:50.416Z"}
+{"level":"warn","message":"User already exist","service":"identity-service","timestamp":"2025-02-24T18:15:50.481Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-02-24T18:16:00.341Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-02-24T18:16:00.342Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-02-24T18:16:00.346Z"}
+{"0":"\"","1":"p","10":" ","11":"l","12":"e","13":"n","14":"g","15":"t","16":"h","17":" ","18":"m","19":"u","2":"a","20":"s","21":"t","22":" ","23":"b","24":"e","25":" ","26":"a","27":"t","28":" ","29":"l","3":"s","30":"e","31":"a","32":"s","33":"t","34":" ","35":"6","36":" ","37":"c","38":"h","39":"a","4":"s","40":"r","41":"a","42":"c","43":"t","44":"e","45":"r","46":"s","47":" ","48":"l","49":"o","5":"w","50":"n","51":"g","6":"o","7":"r","8":"d","9":"\"","level":"warn","message":"Validation error","service":"identity-service","timestamp":"2025-02-24T18:16:00.349Z"}
+{"level":"info","message":"Received POST request to /api/auth/register","service":"identity-service","timestamp":"2025-02-24T18:16:08.716Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-02-24T18:16:08.717Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-02-24T18:16:08.720Z"}
+{"level":"info","message":"User saved successfully","service":"identity-service","timestamp":"2025-02-24T18:16:11.355Z"}
