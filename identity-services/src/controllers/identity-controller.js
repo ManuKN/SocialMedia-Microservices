@@ -167,12 +167,20 @@ const logoutUser = async (req, res) => {
         message: "Refresh token missing",
       });
     }
-    await RefreshToken.deleteOne({ token: refreshToken });
-    logger.info("Refresh token deleted for logout");
-    res.json({
-      success: true,
-      message: "Logged out successfully",
-    });
+    const deleted = await RefreshToken.deleteOne({ token: refreshToken });
+    if (deleted.deletedCount > 0) {
+      logger.info("Refresh token deleted for logout");
+      res.json({
+        success: true,
+        message: "Logged out successfully",
+      });
+    } else {
+      logger.warn("No refreshToken Found to Delete");
+      res.json({
+        success: false,
+        message: "No user found with this RefreshToken",
+      });
+    }
   } catch (err) {
     logger.error("User Logout error", err);
     res.status(500).json({
