@@ -574,3 +574,17 @@
 {"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-02T14:40:42.210Z"}
 {"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-02T14:40:42.211Z"}
 {"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-02T14:40:42.214Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-05T06:21:07.029Z"}
+{"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-03-05T06:21:07.838Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-05T06:21:17.187Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-05T06:21:17.188Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-05T06:21:17.190Z"}
+{"level":"warn","message":"Invalid Password","service":"identity-service","timestamp":"2025-03-05T06:21:17.330Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-05T06:22:11.584Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-05T06:22:11.585Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-05T06:22:11.587Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-05T10:29:29.006Z"}
+{"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-03-05T10:29:30.025Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-05T10:29:50.007Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-05T10:29:50.008Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-05T10:29:50.016Z"}

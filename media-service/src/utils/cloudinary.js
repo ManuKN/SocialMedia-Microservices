@@ -22,7 +22,7 @@ const uploadMediaToCloudinary = (file) => {
         }
       }
     );
-    uploadStream.end(file.buffer);
+    uploadStream.end(file.buffer); // learn this why ur using end and why ur sending only buffer
   });
 };
 
