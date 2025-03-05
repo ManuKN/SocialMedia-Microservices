@@ -588,3 +588,14 @@
 {"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-05T10:29:50.007Z"}
 {"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-05T10:29:50.008Z"}
 {"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-05T10:29:50.016Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-05T15:59:40.012Z"}
+{"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-03-05T15:59:40.516Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-05T16:00:38.039Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-05T16:00:38.041Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-05T16:00:38.062Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-05T16:29:39.471Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-05T16:29:39.472Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-05T16:29:39.475Z"}
+{"level":"info","message":"Received POST request to /api/auth/login","service":"identity-service","timestamp":"2025-03-05T17:00:27.098Z"}
+{"level":"info","message":"Request body [object Object]","service":"identity-service","timestamp":"2025-03-05T17:00:27.099Z"}
+{"level":"info","message":"Registration endpoint Hit...","service":"identity-service","timestamp":"2025-03-05T17:00:27.102Z"}

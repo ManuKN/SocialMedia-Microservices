@@ -430,3 +430,8 @@
 {"level":"info","message":"Hitting getAllPosts endpoint","service":"post-service","timestamp":"2025-03-02T14:43:56.654Z"}
 {"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-03-05T10:29:39.649Z"}
 {"level":"info","message":"Connected to mongoDb","service":"post-service","timestamp":"2025-03-05T10:29:41.597Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-03-05T17:01:28.317Z"}
+{"level":"info","message":"Connected to mongoDb","service":"post-service","timestamp":"2025-03-05T17:01:28.776Z"}
+{"level":"info","message":"Received POST request to /api/posts/create-post","service":"post-service","timestamp":"2025-03-05T17:01:31.267Z"}
+{"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-05T17:01:31.268Z"}
+{"level":"info","message":"Hitting createPost endpoint","service":"post-service","timestamp":"2025-03-05T17:01:31.271Z"}

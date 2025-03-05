@@ -25,7 +25,7 @@ router.post('/upload', authenticateRequest, (req, res, next) => {
             })
         }
         else if (err) {
-            logger.error('Unknown Error Occured while uploading :', err)
+            logger.error('Unknown Error Occured while uploading', err)
             return res.status(500).json({
                 message: "Unknown Error Occured while uploading",
                 error: err.message,

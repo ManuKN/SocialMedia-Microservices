@@ -5,3 +5,5 @@
 
 // also the project planing graph is in the 5 hours 15 mins timeline(for reference)
 
+//Rabbit MQ
+//rabbitMQ helpsu to communicate between different componenst of the applications mostly in microservices by using message queues [Advance message queuing protocal]
