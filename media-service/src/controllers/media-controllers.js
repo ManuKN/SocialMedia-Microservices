@@ -46,4 +46,27 @@ const uploadMedia = async (req, res) => {
   }
 };
 
-module.exports = { uploadMedia };
+const getAllMedias = async (req , res) =>{
+  try{
+   const results = await Media.find({});
+   if (!results) {
+    logger.error("No file found .please add a file and try again!");
+    return res.status(400).json({
+      success: false,
+      message: "No file found. Please add a file and try again!",
+    });
+  }
+   res.status(200).json({
+    success:true,
+    results
+   })
+  }catch(err){
+    logger.error("Error Getting media", err);
+    res.status(500).json({
+      success: false,
+      message: "Error Getting media",
+    });
+  }
+}
+
+module.exports = { uploadMedia , getAllMedias};

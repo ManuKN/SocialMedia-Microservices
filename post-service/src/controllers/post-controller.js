@@ -1,5 +1,6 @@
 const Post = require("../models/Post");
 const logger = require("../utils/logger");
+const { publishEvent } = require("../utils/rabbitmq");
 const { validationCreatePost } = require("../utils/validation");
 
 //So this fucntion is inValidate the redis when ur creates new posts
@@ -135,6 +136,13 @@ const deletePost = async (req, res) => {
         message: "No post found to delete",
       });
     }
+
+    //publish post delete method
+    await publishEvent("post.deleted", {
+      postId: postTodelete._id,
+      userId: req.user.userId,
+      mediaIds: postTodelete.mediaIds,
+    });
 
     //inValidate or deleting the redis cached data if user tries to delete same delete(alredy deleted post)
     await inValidatePostCache(req, postTodelete._id.toString());
