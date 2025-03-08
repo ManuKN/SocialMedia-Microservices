@@ -153,3 +153,296 @@
 {"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-06T19:49:51.930Z"}
 {"level":"error","message":"Unhandled Rejection at:","promise":{},"reason":"{}","service":"media-service","timestamp":"2025-03-06T19:49:51.942Z"}
 {"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-06T19:49:52.221Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-06T19:50:17.451Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-06T19:50:17.475Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-06T19:50:17.483Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-06T19:50:17.753Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-06T19:55:29.234Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-06T19:55:29.235Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-06T19:56:28.179Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-06T19:56:28.180Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-03-06T19:56:28.205Z"}
+{"level":"info","message":"File details : name=Godzilla.jpg , type=image/jpeg","service":"media-service","timestamp":"2025-03-06T19:56:28.213Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-03-06T19:56:28.213Z"}
+{"level":"info","message":"Cloudinary upload successfully . Public-Id : - jus1yfat6jijkbz4bhi9","service":"media-service","timestamp":"2025-03-06T19:56:30.230Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-06T19:56:33.564Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-06T19:56:33.565Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:42:54.579Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:42:54.613Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:42:54.619Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T08:42:55.413Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:43:12.234Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:43:12.246Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:43:12.251Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:43:19.671Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:45:09.273Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:45:09.336Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:45:09.340Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:45:10.328Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:45:37.540Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:45:37.556Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:45:37.561Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:45:58.863Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:45:58.878Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:45:58.883Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:46:03.362Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:46:03.385Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:46:03.393Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:46:03.948Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:46:40.363Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:46:40.385Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:46:40.393Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T08:46:40.826Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:46:44.604Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:46:44.663Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:46:44.676Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:47:25.660Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:47:25.703Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:47:25.719Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:47:28.225Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:47:28.243Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:47:28.249Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:47:29.209Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:47:41.262Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:47:41.282Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:47:41.289Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:47:41.956Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:47:49.925Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:47:49.950Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:47:49.956Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:47:50.449Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:48:00.630Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:48:00.656Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:48:00.665Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:48:01.147Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:48:11.142Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:48:11.172Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:48:11.183Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:48:27.930Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:48:27.955Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:48:27.958Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:48:28.616Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:48:38.843Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:48:38.884Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:48:38.891Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:48:39.363Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:51:02.803Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:51:02.830Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:51:02.836Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:51:33.786Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:51:33.842Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:51:33.851Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:51:39.004Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:51:39.040Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:51:39.049Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:51:39.796Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:51:54.521Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:51:54.541Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:51:54.549Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:51:55.297Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:52:07.754Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:52:07.792Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:52:07.800Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:52:10.104Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:52:28.470Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:52:28.483Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:52:28.487Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:52:31.760Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:52:57.871Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:52:57.885Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:52:57.892Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:52:58.444Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:53:23.547Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:53:23.563Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:53:23.569Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:53:24.636Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:53:31.687Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:53:31.704Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:53:31.709Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T08:53:32.376Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:53:39.456Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:53:39.487Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:53:39.493Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:53:46.351Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:53:46.374Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:53:46.382Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:53:56.685Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:53:56.713Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:53:56.720Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:54:00.220Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:54:00.236Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:54:00.241Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:54:01.611Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:54:22.062Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:54:22.076Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:54:22.080Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:54:25.329Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:54:35.610Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:54:35.644Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:54:35.650Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:54:36.160Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:08.798Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:08.825Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:08.831Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:11.999Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:12.015Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:12.022Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:15.210Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:15.229Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:15.235Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:21.626Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:21.651Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:21.662Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:55:24.512Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:33.705Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:33.752Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:33.764Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:55:34.344Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:41.282Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:41.303Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:41.311Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:45.816Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:45.841Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:45.851Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:55:46.650Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:55:51.333Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:55:51.350Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:55:51.358Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:55:57.069Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:56:00.515Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:56:00.529Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:56:00.535Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T08:56:03.467Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:56:22.634Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:56:22.679Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:56:22.689Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T08:56:23.312Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:56:32.917Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:56:32.952Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:56:32.961Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:56:33.928Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:56:37.399Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:56:37.424Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:56:37.432Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:56:44.320Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:57:14.384Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:57:14.407Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:57:14.416Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:57:14.938Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:57:19.595Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:57:19.614Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:57:19.620Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:57:29.366Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:57:29.404Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:57:29.415Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:57:33.456Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:57:33.477Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:57:33.484Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:57:34.593Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T08:57:52.587Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T08:57:52.632Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T08:57:52.640Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T08:57:55.276Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:01:07.239Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:01:07.308Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:01:07.312Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T09:01:09.049Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:07:50.741Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:07:50.742Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-03-08T09:07:50.755Z"}
+{"level":"info","message":"File details : name=nkn demo.png , type=image/png","service":"media-service","timestamp":"2025-03-08T09:07:50.760Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-03-08T09:07:50.761Z"}
+{"level":"info","message":"Cloudinary upload successfully . Public-Id : - rpt6dxvfn8i8w8v1s4hn","service":"media-service","timestamp":"2025-03-08T09:07:53.998Z"}
+{"level":"error","message":"Error Uploading media Operation `media.insertOne()` buffering timed out after 10000ms","service":"media-service","stack":"MongooseError: Operation `media.insertOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"2025-03-08T09:08:04.020Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:10:21.794Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:10:21.813Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:10:21.821Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T09:10:28.129Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:11:18.453Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:11:18.454Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-03-08T09:11:18.468Z"}
+{"level":"info","message":"File details : name=nkn demo.png , type=image/png","service":"media-service","timestamp":"2025-03-08T09:11:18.472Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-03-08T09:11:18.474Z"}
+{"level":"info","message":"Cloudinary upload successfully . Public-Id : - v8duiboo1tqjf4a4mirm","service":"media-service","timestamp":"2025-03-08T09:11:26.980Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:11:32.170Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:11:32.170Z"}
+{"level":"error","message":"Error occured while deleting the media","service":"media-service","timestamp":"2025-03-08T09:12:30.359Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:12:51.825Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:12:51.825Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:13:01.520Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:13:01.521Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:15:50.663Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:15:50.664Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:16:39.059Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:16:39.059Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-03-08T09:16:39.064Z"}
+{"level":"info","message":"File details : name=youtube image 2.jpg , type=image/jpeg","service":"media-service","timestamp":"2025-03-08T09:16:39.065Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-03-08T09:16:39.066Z"}
+{"level":"info","message":"Cloudinary upload successfully . Public-Id : - nhgdwolv9rb73qqnkomk","service":"media-service","timestamp":"2025-03-08T09:16:56.493Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:17:06.256Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:17:06.257Z"}
+{"level":"error","message":"Error occured while deleting the media","service":"media-service","timestamp":"2025-03-08T09:18:01.341Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:18:24.920Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:18:24.921Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:21:27.270Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:21:27.289Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:21:27.296Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T09:21:29.659Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:21:36.301Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:21:36.323Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:21:36.334Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:21:43.188Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:21:43.205Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:21:43.211Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:21:48.513Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:21:48.528Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:21:48.534Z"}
+{"beforeHandshake":false,"cause":{},"connectionGeneration":0,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"media-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-08T09:22:00.994Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:22:22.347Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:22:22.348Z"}
+{"level":"error","message":"Error Getting media Operation `media.find()` buffering timed out after 10000ms","service":"media-service","stack":"MongooseError: Operation `media.find()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"2025-03-08T09:22:32.365Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:24:19.730Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:24:19.731Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-03-08T09:24:19.744Z"}
+{"level":"info","message":"File details : name=Godzilla.jpg , type=image/jpeg","service":"media-service","timestamp":"2025-03-08T09:24:19.751Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-03-08T09:24:19.751Z"}
+{"level":"info","message":"Cloudinary upload successfully . Public-Id : - itspfpjfzofj6jtm4kgd","service":"media-service","timestamp":"2025-03-08T09:24:22.626Z"}
+{"level":"error","message":"Error Uploading media Operation `media.insertOne()` buffering timed out after 10000ms","service":"media-service","stack":"MongooseError: Operation `media.insertOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:187:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"2025-03-08T09:24:32.658Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:24:54.762Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:24:54.773Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:24:54.779Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T09:24:56.236Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:25:03.420Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:25:03.421Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-03-08T09:25:03.432Z"}
+{"level":"info","message":"File details : name=Godzilla.jpg , type=image/jpeg","service":"media-service","timestamp":"2025-03-08T09:25:03.437Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-03-08T09:25:03.438Z"}
+{"level":"info","message":"Cloudinary upload successfully . Public-Id : - ubdaaliiduhpfyezvtky","service":"media-service","timestamp":"2025-03-08T09:25:06.071Z"}
+{"level":"error","message":"Error occurred while deleting media: Cannot read properties of undefined (reading 'find')","service":"media-service","stack":"TypeError: Cannot read properties of undefined (reading 'find')\n    at handlePostDeleted (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\src\\eventHandlers\\media-event-handlers.js:16:39)\n    at C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\src\\utils\\rabbitmq.js:45:9\n    at Channel.dispatchMessage (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\amqplib\\lib\\channel.js:485:14)\n    at Channel.handleDelivery (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\amqplib\\lib\\channel.js:494:17)\n    at Channel.emit (node:events:513:28)\n    at C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\amqplib\\lib\\channel.js:391:10\n    at Channel.content [as handleMessage] (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\amqplib\\lib\\channel.js:444:9)\n    at Channel.acceptMessageFrame (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\amqplib\\lib\\channel.js:228:33)\n    at Channel.accept (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\amqplib\\lib\\channel.js:298:19)\n    at Connection.mainAccept [as accept] (C:\\Users\\Manu\\Desktop\\Social media microservices\\media-service\\node_modules\\amqplib\\lib\\connection.js:579:33)","timestamp":"2025-03-08T09:26:12.997Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:26:23.962Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:26:23.962Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:27:58.144Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:27:58.158Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:27:58.164Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T09:28:00.312Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-08T09:28:07.316Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-08T09:28:07.337Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-08T09:28:07.344Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-08T09:28:08.703Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:28:51.581Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:28:51.582Z"}
+{"level":"warn","message":"Sentitive end point rate limit exceeded for Ip:::1","service":"media-service","timestamp":"2025-03-08T09:28:51.586Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:29:25.466Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:29:25.467Z"}
+{"level":"warn","message":"Sentitive end point rate limit exceeded for Ip:::1","service":"media-service","timestamp":"2025-03-08T09:29:25.470Z"}
+{"level":"info","message":"Received POST request to /api/media/upload","service":"media-service","timestamp":"2025-03-08T09:32:25.640Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:32:25.641Z"}
+{"level":"info","message":"Starting media upload","service":"media-service","timestamp":"2025-03-08T09:32:25.654Z"}
+{"level":"info","message":"File details : name=Youtube image 1.jpg , type=image/jpeg","service":"media-service","timestamp":"2025-03-08T09:32:25.658Z"}
+{"level":"info","message":"Uploading to cloudinary starting...","service":"media-service","timestamp":"2025-03-08T09:32:25.658Z"}
+{"level":"info","message":"Cloudinary upload successfully . Public-Id : - ilzhtg3yulh3h5lk0w5u","service":"media-service","timestamp":"2025-03-08T09:32:34.469Z"}
+{"0":"i","1":"l","10":"h","11":"3","12":"h","13":"5","14":"l","15":"k","16":"0","17":"w","18":"5","19":"u","2":"z","3":"h","4":"t","5":"g","6":"3","7":"y","8":"u","9":"l","level":"info","message":"Media deleted successfully from cloud storage","service":"media-service","timestamp":"2025-03-08T09:33:48.425Z"}
+{"level":"info","message":"Deleted media 67cc0eb2cca13e4186c342f2 associated with post 67cc0ee091fd1bf8dad38eb4","service":"media-service","timestamp":"2025-03-08T09:33:49.029Z"}
+{"level":"info","message":"Successfully processed media deletion for post 67cc0ee091fd1bf8dad38eb4","service":"media-service","timestamp":"2025-03-08T09:33:49.031Z"}
+{"level":"info","message":"Received GET request to /api/media/getmedias","service":"media-service","timestamp":"2025-03-08T09:33:51.493Z"}
+{"level":"info","message":"Request body [object Object]","service":"media-service","timestamp":"2025-03-08T09:33:51.494Z"}
