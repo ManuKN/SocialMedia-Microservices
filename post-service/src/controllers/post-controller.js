@@ -37,6 +37,13 @@ const createPost = async (req, res) => {
     });
 
     await newlyCreatedPost.save();
+    //publish post delete method
+    await publishEvent("post.created", {
+      postId: newlyCreatedPost._id.toString(),
+      userId: newlyCreatedPost.user.toString(),
+      content: newlyCreatedPost.content,
+      createdAt: newlyCreatedPost.createdAt,
+    });
 
     //inValidate or deleting the redis cached data if user creates new posts
     await inValidatePostCache(req, newlyCreatedPost._id.toString());
