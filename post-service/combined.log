@@ -756,3 +756,6 @@
 {"level":"info","message":"Request body [object Object]","service":"post-service","timestamp":"2025-03-09T11:51:53.711Z"}
 {"level":"info","message":"Hitting deletePost endpoint","service":"post-service","timestamp":"2025-03-09T11:51:53.712Z"}
 {"level":"info","message":"Event published : post.deleted","service":"post-service","timestamp":"2025-03-09T11:51:53.852Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"post-service","timestamp":"2025-03-10T16:37:45.310Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-03-10T16:37:45.317Z"}
+{"level":"info","message":"Connected to mongoDb","service":"post-service","timestamp":"2025-03-10T16:37:47.952Z"}

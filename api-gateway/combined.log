@@ -1318,3 +1318,9 @@
 {"level":"info","message":"Received GET request to /v1/search/posts?query=Nkn%20benki2","service":"api-gateway","timestamp":"2025-03-09T12:04:29.434Z"}
 {"level":"info","message":"Request body [object Object]","service":"api-gateway","timestamp":"2025-03-09T12:04:29.435Z"}
 {"level":"error","message":"Proxy error : Cannot read properties of undefined (reading 'userId')","service":"api-gateway","timestamp":"2025-03-09T12:04:29.438Z"}
+{"level":"info","message":"api gateway is running on port 3000","service":"api-gateway","timestamp":"2025-03-10T16:33:56.274Z"}
+{"level":"info","message":"Identity-service is running on Port http://localhost:3001","service":"api-gateway","timestamp":"2025-03-10T16:33:56.282Z"}
+{"level":"info","message":"Post-service is running on Port http://localhost:3002","service":"api-gateway","timestamp":"2025-03-10T16:33:56.283Z"}
+{"level":"info","message":"Media-service is running on Port http://localhost:3003","service":"api-gateway","timestamp":"2025-03-10T16:33:56.284Z"}
+{"level":"info","message":"Search-service is running on Port http://localhost:3004","service":"api-gateway","timestamp":"2025-03-10T16:33:56.284Z"}
+{"level":"info","message":"Redis URL redis://localhost:6379","service":"api-gateway","timestamp":"2025-03-10T16:33:56.285Z"}

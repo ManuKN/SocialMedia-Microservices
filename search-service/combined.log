@@ -246,3 +246,8 @@
 {"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-09T12:11:28.129Z"}
 {"level":"info","message":"Search service running on port 3004","service":"search-service","timestamp":"2025-03-09T12:11:28.141Z"}
 {"level":"info","message":"Connected to mongoDb","service":"search-service","timestamp":"2025-03-09T12:11:29.267Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"search-service","timestamp":"2025-03-10T16:38:21.749Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"c","6":"r","7":"e","8":"a","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-10T16:38:21.782Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-10T16:38:21.841Z"}
+{"level":"info","message":"Search service running on port 3004","service":"search-service","timestamp":"2025-03-10T16:38:21.850Z"}
+{"level":"info","message":"Connected to mongoDb","service":"search-service","timestamp":"2025-03-10T16:38:31.359Z"}
