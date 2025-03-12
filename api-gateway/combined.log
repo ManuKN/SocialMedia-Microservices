@@ -1324,3 +1324,15 @@
 {"level":"info","message":"Media-service is running on Port http://localhost:3003","service":"api-gateway","timestamp":"2025-03-10T16:33:56.284Z"}
 {"level":"info","message":"Search-service is running on Port http://localhost:3004","service":"api-gateway","timestamp":"2025-03-10T16:33:56.284Z"}
 {"level":"info","message":"Redis URL redis://localhost:6379","service":"api-gateway","timestamp":"2025-03-10T16:33:56.285Z"}
+{"level":"info","message":"api gateway is running on port 3000","service":"api-gateway","timestamp":"2025-03-11T09:58:03.279Z"}
+{"level":"info","message":"Identity-service is running on Port http://localhost:3001","service":"api-gateway","timestamp":"2025-03-11T09:58:03.291Z"}
+{"level":"info","message":"Post-service is running on Port http://localhost:3002","service":"api-gateway","timestamp":"2025-03-11T09:58:03.293Z"}
+{"level":"info","message":"Media-service is running on Port http://localhost:3003","service":"api-gateway","timestamp":"2025-03-11T09:58:03.293Z"}
+{"level":"info","message":"Search-service is running on Port http://localhost:3004","service":"api-gateway","timestamp":"2025-03-11T09:58:03.293Z"}
+{"level":"info","message":"Redis URL redis://localhost:6379","service":"api-gateway","timestamp":"2025-03-11T09:58:03.294Z"}
+{"level":"info","message":"api gateway is running on port 3000","service":"api-gateway","timestamp":"2025-03-12T05:24:02.585Z"}
+{"level":"info","message":"Identity-service is running on Port http://localhost:3001","service":"api-gateway","timestamp":"2025-03-12T05:24:02.588Z"}
+{"level":"info","message":"Post-service is running on Port http://localhost:3002","service":"api-gateway","timestamp":"2025-03-12T05:24:02.588Z"}
+{"level":"info","message":"Media-service is running on Port http://localhost:3003","service":"api-gateway","timestamp":"2025-03-12T05:24:02.589Z"}
+{"level":"info","message":"Search-service is running on Port http://localhost:3004","service":"api-gateway","timestamp":"2025-03-12T05:24:02.589Z"}
+{"level":"info","message":"Redis URL redis://localhost:6379","service":"api-gateway","timestamp":"2025-03-12T05:24:02.589Z"}
