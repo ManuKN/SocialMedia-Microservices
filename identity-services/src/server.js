@@ -79,9 +79,10 @@ app.use("/api/auth", routes);
 //error Handler
 app.use(errorHandler);
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   logger.info(`Identity service running on port ${PORT}`);
 });
+
 
 //unhandled promise rejection
 

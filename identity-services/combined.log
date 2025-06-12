@@ -647,3 +647,9 @@
 {"beforeHandshake":false,"cause":{},"connectionGeneration":1,"errorLabelSet":{},"level":"error","message":"Mongo connection error AggregateError has an empty errors array. Please check the `cause` property for more information.","service":"identity-service","stack":"MongoNetworkError: AggregateError has an empty errors array. Please check the `cause` property for more information.\n    at TLSSocket.<anonymous> (C:\\Users\\Manu\\Desktop\\Social media microservices\\identity-services\\node_modules\\mongodb\\lib\\cmap\\connect.js:285:44)\n    at Object.onceWrapper (node:events:628:26)\n    at TLSSocket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-03-10T16:34:33.051Z"}
 {"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-10T16:37:11.774Z"}
 {"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-03-10T16:37:15.078Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-11T09:58:04.426Z"}
+{"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-03-11T09:58:05.044Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-12T05:24:41.972Z"}
+{"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-03-12T05:24:42.644Z"}
+{"level":"info","message":"Identity service running on port 3001","service":"identity-service","timestamp":"2025-03-12T10:59:02.952Z"}
+{"level":"info","message":"Connected to mongoDb","service":"identity-service","timestamp":"2025-03-12T10:59:03.413Z"}

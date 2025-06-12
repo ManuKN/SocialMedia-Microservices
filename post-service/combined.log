@@ -759,3 +759,12 @@
 {"level":"info","message":"Connected to Rabbit MQ","service":"post-service","timestamp":"2025-03-10T16:37:45.310Z"}
 {"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-03-10T16:37:45.317Z"}
 {"level":"info","message":"Connected to mongoDb","service":"post-service","timestamp":"2025-03-10T16:37:47.952Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"post-service","timestamp":"2025-03-11T09:58:04.204Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-03-11T09:58:04.210Z"}
+{"level":"info","message":"Connected to mongoDb","service":"post-service","timestamp":"2025-03-11T09:58:04.955Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"post-service","timestamp":"2025-03-12T05:25:01.479Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-03-12T05:25:01.483Z"}
+{"level":"info","message":"Connected to mongoDb","service":"post-service","timestamp":"2025-03-12T05:25:01.853Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"post-service","timestamp":"2025-03-12T10:59:37.597Z"}
+{"level":"info","message":"Post service running on port 3002","service":"post-service","timestamp":"2025-03-12T10:59:37.602Z"}
+{"level":"info","message":"Connected to mongoDb","service":"post-service","timestamp":"2025-03-12T10:59:38.165Z"}

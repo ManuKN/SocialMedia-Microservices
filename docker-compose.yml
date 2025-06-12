@@ -1,3 +1,5 @@
+version: "3.8"
+
 services:
   api-gateway:
     build: ./api-gateway
@@ -7,12 +9,22 @@ services:
     depends_on:
       - redis
       - rabbitmq
+      - identity-services
+      - media-service
+      - post-service
+      - search-service
     environment:
       - REDIS_URL=redis://redis:6379
-      - RABBITMQ_URL=amqp://rabbitmq:5672 
+      - RABBITMQ_URL=amqp://rabbitmq:5672
+      - IDENTITY_SERVICE_URL=http://identity-services:3001
+      - MEDIA_SERVICE_URL=http://media-service:3003
+      - POST_SERVICE_URL=http://post-service:3002
+      - SEARCH_SERVICE_URL=http://search-service:3004
 
   identity-services:
     build: ./identity-services
+    ports:
+      - "3001:3001"
     env_file: ./identity-services/.env
     depends_on:
       - redis
@@ -23,6 +35,8 @@ services:
 
   media-service:
     build: ./media-service
+    ports:
+      - "3003:3003"
     env_file: ./media-service/.env
     depends_on:
       - redis
@@ -33,6 +47,8 @@ services:
 
   post-service:
     build: ./post-service
+    ports:
+      - "3002:3002"
     env_file: ./post-service/.env
     depends_on:
       - redis
@@ -43,6 +59,8 @@ services:
 
   search-service:
     build: ./search-service
+    ports:
+      - "3004:3004"
     env_file: ./search-service/.env
     depends_on:
       - redis

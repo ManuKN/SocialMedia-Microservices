@@ -477,3 +477,15 @@
 {"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-10T16:37:25.580Z"}
 {"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-10T16:37:25.585Z"}
 {"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-10T16:37:37.015Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-11T09:58:04.572Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-11T09:58:04.581Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-11T09:58:04.584Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-11T09:58:05.313Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-12T05:24:51.294Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-12T05:24:51.331Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-12T05:24:51.333Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-12T05:24:51.653Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"media-service","timestamp":"2025-03-12T10:59:27.288Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"media-service","timestamp":"2025-03-12T10:59:27.326Z"}
+{"level":"info","message":"Media service running on port 3003","service":"media-service","timestamp":"2025-03-12T10:59:27.329Z"}
+{"level":"info","message":"Connected to mongoDb","service":"media-service","timestamp":"2025-03-12T10:59:27.654Z"}

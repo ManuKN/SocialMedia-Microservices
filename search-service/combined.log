@@ -251,3 +251,23 @@
 {"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-10T16:38:21.841Z"}
 {"level":"info","message":"Search service running on port 3004","service":"search-service","timestamp":"2025-03-10T16:38:21.850Z"}
 {"level":"info","message":"Connected to mongoDb","service":"search-service","timestamp":"2025-03-10T16:38:31.359Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"search-service","timestamp":"2025-03-11T09:35:55.470Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"c","6":"r","7":"e","8":"a","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-11T09:35:55.479Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-11T09:35:55.487Z"}
+{"level":"info","message":"Search service running on port 3004","service":"search-service","timestamp":"2025-03-11T09:35:55.490Z"}
+{"level":"info","message":"Connected to mongoDb","service":"search-service","timestamp":"2025-03-11T09:35:56.581Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"search-service","timestamp":"2025-03-11T09:58:03.944Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"c","6":"r","7":"e","8":"a","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-11T09:58:03.959Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-11T09:58:03.969Z"}
+{"level":"info","message":"Search service running on port 3004","service":"search-service","timestamp":"2025-03-11T09:58:03.972Z"}
+{"level":"info","message":"Connected to mongoDb","service":"search-service","timestamp":"2025-03-11T09:58:04.654Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"search-service","timestamp":"2025-03-12T05:25:10.612Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"c","6":"r","7":"e","8":"a","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-12T05:25:10.622Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-12T05:25:10.657Z"}
+{"level":"info","message":"Search service running on port 3004","service":"search-service","timestamp":"2025-03-12T05:25:10.659Z"}
+{"level":"info","message":"Connected to mongoDb","service":"search-service","timestamp":"2025-03-12T05:25:11.006Z"}
+{"level":"info","message":"Connected to Rabbit MQ","service":"search-service","timestamp":"2025-03-12T10:59:57.399Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"c","6":"r","7":"e","8":"a","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-12T10:59:57.411Z"}
+{"0":"p","1":"o","10":"e","11":"d","2":"s","3":"t","4":".","5":"d","6":"e","7":"l","8":"e","9":"t","level":"info","message":"Subscribed to event:","service":"search-service","timestamp":"2025-03-12T10:59:57.418Z"}
+{"level":"info","message":"Search service running on port 3004","service":"search-service","timestamp":"2025-03-12T10:59:57.421Z"}
+{"level":"info","message":"Connected to mongoDb","service":"search-service","timestamp":"2025-03-12T10:59:57.773Z"}

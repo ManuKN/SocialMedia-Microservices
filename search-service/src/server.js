@@ -68,7 +68,7 @@ async function startServer() {
      //consume all the events here
      await consumeEvent("post.created", handlePostCreation);  
      await consumeEvent("post.deleted", handleDeletingPost);   
-    app.listen(PORT, () => {
+    app.listen(PORT, "0.0.0.0", () => {
       logger.info(`Search service running on port ${PORT}`);
     });
   } catch (err) {
