@@ -125,7 +125,7 @@ app.use(
       );
       return proxyResData;
     },
-    parseReqBody: false, // this will amke sure that entire request is proxyed for the file uploads also
+    parseReqBody: false, // this will make sure that entire request is proxyed for the file uploads also
   })
 );
 
